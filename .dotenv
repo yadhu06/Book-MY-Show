@@ -1,1 +1,0 @@
-MONGO_URL = "mongodb+srv://yadhu06:yadhu@cluster0.vaw8c.mongodb.net/cluster0?retryWrites=true&w=majority"
